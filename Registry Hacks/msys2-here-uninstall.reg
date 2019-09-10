@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\Directory\shell\OpenMSYS2]
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\OpenMSYS2]
+[-HKEY_CLASSES_ROOT\Drive\shell\OpenMSYS2]
+[-HKEY_CLASSES_ROOT\LibraryFolder\background\shell\OpenMSYS2]
+
+[-HKEY_CLASSES_ROOT\Directory\shell\OpenMinGW64]
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\OpenMinGW64]
+[-HKEY_CLASSES_ROOT\Drive\shell\OpenMinGW64]
+[-HKEY_CLASSES_ROOT\LibraryFolder\background\shell\OpenMinGW64]
+
+[-HKEY_CLASSES_ROOT\Directory\shell\OpenMinGW32]
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\OpenMinGW32]
+[-HKEY_CLASSES_ROOT\Drive\shell\OpenMinGW32]
+[-HKEY_CLASSES_ROOT\LibraryFolder\background\shell\OpenMinGW32]

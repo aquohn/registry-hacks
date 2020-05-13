@@ -4,100 +4,100 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\Directory\shell\OpenMSYS2]
 @="Open MSYS2 here"
-"Icon"="C:\\msys64\\msys2.exe"
+"Icon"="C:\\git-sdk-64\\msys2.exe"
 "Extended"=""
 
 [HKEY_CLASSES_ROOT\Directory\shell\OpenMSYS2\command]
-@="C:\\msys64\\msys2.exe bash"
+@="C:\\git-sdk-64\\msys2.exe"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\OpenMSYS2]
 @="Open MSYS2 here"
-"Icon"="C:\\msys64\\msys2.exe"
+"Icon"="C:\\git-sdk-64\\msys2.exe"
 "Extended"=""
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\OpenMSYS2\command]
-@="C:\\msys64\\msys2.exe bash"
+@="C:\\git-sdk-64\\msys2.exe"
 
 [HKEY_CLASSES_ROOT\Drive\shell\OpenMSYS2]
 @="Open MSYS2 here"
-"Icon"="C:\\msys64\\msys2.exe"
+"Icon"="C:\\git-sdk-64\\msys2.exe"
 "Extended"=""
 
 [HKEY_CLASSES_ROOT\Drive\shell\OpenMSYS2\command]
-@="C:\\msys64\\msys2.exe bash"
+@="C:\\git-sdk-64\\msys2.exe"
 
 [HKEY_CLASSES_ROOT\LibraryFolder\background\shell\OpenMSYS2]
 @="Open MSYS2 here"
-"Icon"="C:\\msys64\\msys2.exe"
+"Icon"="C:\\git-sdk-64\\msys2.exe"
 "Extended"=""
 
 [HKEY_CLASSES_ROOT\LibraryFolder\background\shell\OpenMSYS2\command]
-@="C:\\msys64\\msys2.exe bash"
+@="C:\\git-sdk-64\\msys2.exe"
 
 ; MinGW64
 
 [HKEY_CLASSES_ROOT\Directory\shell\OpenMinGW64]
 @="Open MinGW64 here"
-"Icon"="C:\\msys64\\mingw64.exe"
+"Icon"="C:\\git-sdk-64\\mingw64.exe"
 "Extended"=""
 
 [HKEY_CLASSES_ROOT\Directory\shell\OpenMinGW64\command]
-@="C:\\msys64\\mingw64.exe bash"
+@="C:\\git-sdk-64\\mingw64.exe"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\OpenMinGW64]
 @="Open MinGW64 here"
-"Icon"="C:\\msys64\\mingw64.exe"
+"Icon"="C:\\git-sdk-64\\mingw64.exe"
 "Extended"=""
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\OpenMinGW64\command]
-@="C:\\msys64\\mingw64.exe bash"
+@="C:\\git-sdk-64\\mingw64.exe"
 
 [HKEY_CLASSES_ROOT\Drive\shell\OpenMinGW64]
 @="Open MinGW64 here"
-"Icon"="C:\\msys64\\mingw64.exe"
+"Icon"="C:\\git-sdk-64\\mingw64.exe"
 "Extended"=""
 
 [HKEY_CLASSES_ROOT\Drive\shell\OpenMinGW64\command]
-@="C:\\msys64\\mingw64.exe bash"
+@="C:\\git-sdk-64\\mingw64.exe"
 
 [HKEY_CLASSES_ROOT\LibraryFolder\background\shell\OpenMinGW64]
 @="Open MinGW64 here"
-"Icon"="C:\\msys64\\mingw64.exe"
+"Icon"="C:\\git-sdk-64\\mingw64.exe"
 "Extended"=""
 
 [HKEY_CLASSES_ROOT\LibraryFolder\background\shell\OpenMinGW64\command]
-@="C:\\msys64\\mingw64.exe bash"
+@="C:\\git-sdk-64\\mingw64.exe"
 
 ; MinGW32
 
 [HKEY_CLASSES_ROOT\Directory\shell\OpenMinGW32]
 @="Open MinGW32 here"
-"Icon"="C:\\msys64\\mingw32.exe"
+"Icon"="C:\\git-sdk-64\\mingw32.exe"
 "Extended"=""
 
 [HKEY_CLASSES_ROOT\Directory\shell\OpenMinGW32\command]
-@="C:\\msys64\\mingw32.exe bash"
+@="C:\\git-sdk-64\\mingw32.exe"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\OpenMinGW32]
 @="Open MinGW32 here"
-"Icon"="C:\\msys64\\mingw32.exe"
+"Icon"="C:\\git-sdk-64\\mingw32.exe"
 "Extended"=""
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\OpenMinGW32\command]
-@="C:\\msys64\\mingw32.exe bash"
+@="C:\\git-sdk-64\\mingw32.exe"
 
 [HKEY_CLASSES_ROOT\Drive\shell\OpenMinGW32]
 @="Open MinGW32 here"
-"Icon"="C:\\msys64\\mingw32.exe"
+"Icon"="C:\\git-sdk-64\\mingw32.exe"
 "Extended"=""
 
 [HKEY_CLASSES_ROOT\Drive\shell\OpenMinGW32\command]
-@="C:\\msys64\\mingw32.exe bash"
+@="C:\\git-sdk-64\\mingw32.exe"
 
 [HKEY_CLASSES_ROOT\LibraryFolder\background\shell\OpenMinGW32]
 @="Open MinGW32 here"
-"Icon"="C:\\msys64\\mingw32.exe"
+"Icon"="C:\\git-sdk-64\\mingw32.exe"
 "Extended"=""
 
 [HKEY_CLASSES_ROOT\LibraryFolder\background\shell\OpenMinGW32\command]
-@="C:\\msys64\\mingw32.exe bash"
+@="C:\\git-sdk-64\\mingw32.exe"

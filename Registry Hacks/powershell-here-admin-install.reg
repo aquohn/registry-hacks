@@ -7,7 +7,7 @@ Windows Registry Editor Version 5.00
 "Extended"=""
 
 [HKEY_CLASSES_ROOT\Directory\shell\OpenElevatedPS\command]
-@="PowerShell -windowstyle hidden -Command \"Start-Process PowerShell -ArgumentList '-NoExit -c cd \\\\\\\"%V\\\\\\\"' -Verb RunAs\""
+@="PowerShell -windowstyle hidden -Command \"Start-Process PowerShell -ArgumentList '-NoExit -c cd \\\\\\\"%V/\\\\\\\"' -Verb RunAs\""
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\OpenElevatedPS]
 @="Open PowerShell here as Administrator"
@@ -16,7 +16,7 @@ Windows Registry Editor Version 5.00
 "Extended"=""
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\OpenElevatedPS\command]
-@="PowerShell -windowstyle hidden -Command \"Start-Process PowerShell -ArgumentList '-NoExit -c cd \\\\\\\"%V\\\\\\\"' -Verb RunAs\""
+@="PowerShell -windowstyle hidden -Command \"Start-Process PowerShell -ArgumentList '-NoExit -c cd \\\\\\\"%V/\\\\\\\"' -Verb RunAs\""
 
 [HKEY_CLASSES_ROOT\Drive\shell\OpenElevatedPS]
 @="Open PowerShell here as Administrator"
@@ -25,7 +25,7 @@ Windows Registry Editor Version 5.00
 "Extended"=""
 
 [HKEY_CLASSES_ROOT\Drive\shell\OpenElevatedPS\command]
-@="PowerShell -windowstyle hidden -Command \"Start-Process PowerShell -ArgumentList '-NoExit -c cd \\\\\\\"%V\\\\\\\"' -Verb RunAs\""
+@="PowerShell -windowstyle hidden -Command \"Start-Process PowerShell -ArgumentList '-NoExit -c cd \\\\\\\"%V/\\\\\\\"' -Verb RunAs\""
 
 [HKEY_CLASSES_ROOT\LibraryFolder\background\shell\OpenElevatedPS]
 @="Open PowerShell here as Administrator"
@@ -34,6 +34,6 @@ Windows Registry Editor Version 5.00
 "Extended"=""
 
 [HKEY_CLASSES_ROOT\LibraryFolder\background\shell\OpenElevatedPS\command]
-@="PowerShell -windowstyle hidden -Command \"Start-Process PowerShell -ArgumentList '-NoExit -c cd \\\\\\\"%V\\\\\\\"' -Verb RunAs\""
+@="PowerShell -windowstyle hidden -Command \"Start-Process PowerShell -ArgumentList '-NoExit -c cd \\\\\\\"%V/\\\\\\\"' -Verb RunAs\""
 
-; PowerShell -windowstyle hidden -command Start-Process PowerShell -ArgumentList '-NoExit -c cd \\\"%V\\\"' -Verb runAs
+; PowerShell -windowstyle hidden -command Start-Process PowerShell -ArgumentList '-NoExit -c cd \\\"%V/\\\"' -Verb runAs
